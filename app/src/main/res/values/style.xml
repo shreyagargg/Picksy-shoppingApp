@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="MenuTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme here -->
+        </style>
+
+        <!-- Style for navigation menu items -->
+        <style name="NavigationMenuText" parent="">
+            <item name="android:textColor">@color/teal</item> <!-- Replace with your desired color -->
+        </style>
+
+
+</resources>

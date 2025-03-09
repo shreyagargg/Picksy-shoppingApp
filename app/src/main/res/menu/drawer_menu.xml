@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/profile"
+        android:id="@+id/menu1"
+        android:title="Profile"
+        />
+
+    <item
+        android:icon="@drawable/profile"
+        android:id="@+id/menu2"
+        android:title="Categories"  />
+
+    <item
+        android:icon="@drawable/profile"
+        android:id="@+id/menu3"
+        android:title="History"  />
+
+    <item
+        android:icon="@drawable/profile"
+        android:id="@+id/menu4"
+        android:title="Favourites"  />
+
+    <item
+        android:icon="@drawable/account"
+        android:id="@+id/menu5"
+        android:title="Account"  />
+
+    <item
+        android:icon="@drawable/terms_cond"
+        android:id="@+id/menu6"
+        android:title="Terms ans Conditions"  />
+
+    <item
+        android:icon="@drawable/contact"
+        android:id="@+id/menu7"
+        android:title="Contact Us"  />
+
+    <item
+        android:icon="@drawable/feedback"
+        android:id="@+id/menu8"
+        android:title="Feedback"  />
+
+    <item
+        android:icon="@drawable/logout"
+        android:id="@+id/menu9"
+        android:title="Log Out"  />
+
+    <item
+        android:icon="@drawable/share"
+        android:id="@+id/menu10"
+        android:title="Share"  />
+
+
+</menu>

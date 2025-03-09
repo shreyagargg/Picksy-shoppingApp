@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163584565893",
+    "project_id": "picksy-ab2b9",
+    "storage_bucket": "picksy-ab2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163584565893:android:223903b847ed9d02807fec",
+        "android_client_info": {
+          "package_name": "com.example.picksy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjag1Atyv9Rxft5ID2bBIFZ8bMzzF6WIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
